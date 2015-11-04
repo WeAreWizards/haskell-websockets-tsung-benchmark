@@ -49,7 +49,9 @@ nixops create '<nix/test-setup.nix>'
 nixops deploy
 ```
 
-(See [here]() for the full configuration).
+(See
+[here](https://github.com/WeAreWizards/haskell-websockets-tsung-benchmark/blob/master/nix/test-setup.nix)
+for the full configuration including kernel tuning).
 
 Unfortunately I could not get the distributed tsing going: The
 distributed testing uses an Erlang function called `slave:start` which
