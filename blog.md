@@ -20,7 +20,7 @@ which are usually 4-5 cents in eu-west.
 We're using Nix to deploy tsung and a very simple Haskell chat program
 that just broadcasts messages to everyone.
 
-The core handler of our chat program looks like this (full source [here](TODO)):
+The core handler of our chat program looks like this (full source [here](https://github.com/WeAreWizards/haskell-websockets-tsung-benchmark/blob/master/code/src/Main.hs)):
 
 ```haskell
 handleWS :: InChan ByteString -> PendingConnection -> IO ()
@@ -76,8 +76,9 @@ ip addr add 172.31.18.82/20 dev eth0
 ip addr add 172.31.18.83/20 dev eth0
 ```
 
-We have a [slightly different](TODO) tsung config which we copy to our
-tsung box:
+We have a
+[slightly different](https://github.com/WeAreWizards/haskell-websockets-tsung-benchmark/blob/master/code/src/tsung-conf.xml)
+tsung config from the Phoenix people which we copy to our tsung box:
 
 ```console
 $ nixops scp --to tsung-1 code/src/tsung-conf.xml tsung-conf.xml
@@ -160,7 +161,7 @@ But no luck - the same problem occurs. Turns out that the `-p` switch
 doesn't actually work (we filed
 [a bug](https://github.com/processone/tsung/issues/136)).
 
-We [patched](TODO point to patch) tsung ourselves for now.
+We [patched](https://github.com/WeAreWizards/haskell-websockets-tsung-benchmark/blob/master/nix/maxproc.patch) tsung ourselves for now.
 
 
 ## Some performance numbers
