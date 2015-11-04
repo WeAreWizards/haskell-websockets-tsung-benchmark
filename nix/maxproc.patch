@@ -1,0 +1,13 @@
+diff --git a/tsung.sh.in b/tsung.sh.in
+index 5fb22ac..f05704c 100755
+--- a/tsung.sh.in
++++ b/tsung.sh.in
+@@ -32,7 +32,7 @@ NAME=tsung
+ CONTROLLER=tsung_controller
+ SMP_DISABLE=true
+ WARM_TIME=1
+-MAX_PROCESS=250000
++MAX_PROCESS=2500000
+ # start an embedded web dashboard (on port 8091)
+ WEB_GUI=true
+ # don't stop controller: let the GUI alive after the load is finished:

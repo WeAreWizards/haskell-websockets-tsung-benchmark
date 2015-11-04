@@ -1,0 +1,525 @@
+# stats: dump at 1446662194
+stats: users 10197 10197
+stats: {load,"tsung_controller@tsung-1"} 1 0.33984375 0 0.33984375 0.33984375 0 0
+stats: {freemem,"tsung_controller@tsung-1"} 1 15424.22265625 0 15424.22265625 15424.22265625 0 0
+stats: {cpu,"tsung_controller@tsung-1"} 1 23.18373504002467 0 23.18373504002467 23.18373504002467 0 0
+stats: session 33 730.9301017992425 773.1398199166218 1675.81494140625 3.166015625 0 0
+stats: users_count 10230 10230
+stats: finish_users_count 33 33
+stats: connect 7081 6.299383776788241 74.13008628599609 1005.64697265625 0.3359375 0 0
+stats: error_send_no_ws_connection 1 1
+stats: error_unknown 32 32
+stats: error_connect_eaddrinuse 10828 10828
+stats: size_sent 1265580 1265580
+stats: connected 7029 7029
+stats: error_abort_max_conn_retries 2626 2626
+# stats: dump at 1446662204
+stats: users 21605 21605
+stats: {load,"tsung_controller@tsung-1"} 1 0.73828125 0.0 0.73828125 0.33984375 0.33984375 1
+stats: {freemem,"tsung_controller@tsung-1"} 1 14683.75 0.0 15424.22265625 14683.75 15424.22265625 1
+stats: {cpu,"tsung_controller@tsung-1"} 1 64.87481590574374 0.0 64.87481590574374 23.18373504002467 23.18373504002467 1
+stats: session 6 977.9339599609375 481.2585523722871 1675.81494140625 3.166015625 730.9301017992425 33
+stats: users_count 11414 21644
+stats: finish_users_count 6 39
+stats: connect 11447 15.934176321955281 120.8628460330542 1008.664794921875 0.328857421875 6.299383776788241 7081
+stats: error_send_no_ws_connection 0 1
+stats: error_unknown 8 40
+stats: error_connect_eaddrinuse 60 10888
+stats: size_sent 2059380 3324960
+stats: connected 11432 18461
+stats: error_abort_max_conn_retries 0 2626
+# stats: dump at 1446662214
+stats: users 32953 32953
+stats: {load,"tsung_controller@tsung-1"} 1 0.78125 0.0 0.78125 0.33984375 0.5390625 2
+stats: {freemem,"tsung_controller@tsung-1"} 1 14571.4375 0.0 15424.22265625 14571.4375 15053.986328125 2
+stats: {cpu,"tsung_controller@tsung-1"} 1 62.048342885621736 0.0 64.87481590574374 23.18373504002467 44.02927547288421 2
+stats: session 4 2358.44287109375 2340.550626236639 4789.537109375 3.166015625 768.9306953625802 39
+stats: users_count 11352 32996
+stats: finish_users_count 4 43
+stats: error_send_no_ws_connection 0 1
+stats: connect 11392 26.290783142775695 159.84055649480237 2530.671142578125 0.30615234375 12.251967448232925 18528
+stats: error_unknown 4 44
+stats: error_connect_eaddrinuse 0 10888
+stats: size_sent 2050380 5375340
+stats: connected 11388 29849
+stats: error_abort_max_conn_retries 0 2626
+# stats: dump at 1446662224
+stats: users 44652 44652
+stats: {load,"tsung_controller@tsung-1"} 1 1.05859375 0.0 1.05859375 0.33984375 0.6197916666666666 3
+stats: {freemem,"tsung_controller@tsung-1"} 1 14160.6171875 0.0 15424.22265625 14160.6171875 14893.13671875 3
+stats: {cpu,"tsung_controller@tsung-1"} 1 61.08733954190788 0.0 64.87481590574374 23.18373504002467 50.03563127713005 3
+stats: session 1 40.001953125 0.0 4789.537109375 3.166015625 916.7922931050146 43
+stats: users_count 11700 44696
+stats: finish_users_count 1 44
+stats: connect 11753 23.785974047350926 149.27361438731185 2530.671142578125 0.30615234375 17.597227755459905 29920
+stats: error_send_no_ws_connection 0 1
+stats: error_unknown 1 45
+stats: error_connect_eaddrinuse 0 10888
+stats: size_sent 2115540 7490880
+stats: connected 11752 41601
+stats: error_abort_max_conn_retries 0 2626
+# stats: dump at 1446662234
+stats: users 56224 56224
+stats: {load,"tsung_controller@tsung-1"} 1 1.19140625 0.0 1.19140625 0.33984375 0.7294921875 4
+stats: {freemem,"tsung_controller@tsung-1"} 1 14062.62890625 0.0 15424.22265625 14062.62890625 14710.0068359375 4
+stats: {cpu,"tsung_controller@tsung-1"} 1 45.69488236720834 0.0 64.87481590574374 23.18373504002467 52.79855834332451 4
+stats: session 0 0 0 4789.537109375 3.166015625 896.8652399236506 44
+stats: users_count 11572 56268
+stats: finish_users_count 0 44
+stats: connect 11549 0.9692800529943089 16.152371008658864 2530.671142578125 0.30615234375 19.34263449768137 41673
+stats: error_send_no_ws_connection 0 1
+stats: error_unknown 0 45
+stats: error_connect_eaddrinuse 0 10888
+stats: size_sent 2077380 9568260
+stats: connected 11540 53141
+stats: error_abort_max_conn_retries 0 2626
+# stats: dump at 1446662244
+stats: users 67868 67868
+stats: {load,"tsung_controller@tsung-1"} 1 1.390625 0.0 1.390625 0.33984375 0.821875 5
+stats: {freemem,"tsung_controller@tsung-1"} 1 13725.328125 0.0 15424.22265625 13725.328125 14580.53125 5
+stats: {cpu,"tsung_controller@tsung-1"} 1 38.98667935299714 0.0 64.87481590574374 23.18373504002467 51.37782314810128 5
+stats: session 0 0 0 4789.537109375 3.166015625 896.8652399236506 44
+stats: users_count 11644 67912
+stats: finish_users_count 0 44
+stats: connect 11737 0.6270546959867845 0.5537713335282302 2530.671142578125 0.30615234375 15.355676651646066 53222
+stats: error_send_no_ws_connection 0 1
+stats: error_unknown 0 45
+stats: error_connect_eaddrinuse 0 10888
+stats: size_sent 2112660 11680920
+stats: connected 11737 64878
+stats: error_abort_max_conn_retries 0 2626
+# stats: dump at 1446662254
+stats: users 79373 79373
+stats: {load,"tsung_controller@tsung-1"} 1 1.48828125 0.0 1.48828125 0.33984375 0.9166666666666666 6
+stats: {freemem,"tsung_controller@tsung-1"} 1 13382.23046875 0.0 15424.22265625 13382.23046875 14437.997395833334 6
+stats: {cpu,"tsung_controller@tsung-1"} 1 39.418493803622496 0.0 64.87481590574374 23.18373504002467 49.31263251558392 6
+stats: session 0 0 0 4789.537109375 3.166015625 896.8652399236506 44
+stats: users_count 11505 79417
+stats: finish_users_count 0 44
+stats: connect 11495 0.6733415003805963 0.8487449588724423 2530.671142578125 0.30615234375 12.694462102567833 64959
+stats: error_send_no_ws_connection 0 1
+stats: error_unknown 0 45
+stats: error_connect_eaddrinuse 0 10888
+stats: size_sent 2069100 13750020
+stats: connected 11495 76373
+stats: error_abort_max_conn_retries 0 2626
+# stats: dump at 1446662264
+stats: users 90425 90425
+stats: {load,"tsung_controller@tsung-1"} 1 1.6484375 0.0 1.6484375 0.33984375 0.9983258928571429 7
+stats: {freemem,"tsung_controller@tsung-1"} 1 13060.76953125 0.0 15424.22265625 13060.76953125 14287.173549107143 7
+stats: {cpu,"tsung_controller@tsung-1"} 1 38.69430545627829 0.0 64.87481590574374 23.18373504002467 47.89918412816086 7
+stats: session 14 21459.311715262276 15980.891270733242 34105.985107421875 3.166015625 896.8652399236506 44
+stats: users_count 11066 90483
+stats: finish_users_count 14 58
+stats: connect 11133 76.30498778003061 301.0037440043011 3009.364013671875 0.30615234375 10.887064434399493 76454
+stats: error_send_no_ws_connection 0 1
+stats: error_unknown 14 59
+stats: error_connect_eaddrinuse 0 10888
+stats: size_sent 2003760 15753780
+stats: connected 11119 87492
+stats: error_abort_max_conn_retries 0 2626
+# stats: dump at 1446662274
+stats: users 101914 101914
+stats: {load,"tsung_controller@tsung-1"} 1 1.76953125 0.0 1.76953125 0.33984375 1.07958984375 8
+stats: {freemem,"tsung_controller@tsung-1"} 1 12765.37109375 0.0 15424.22265625 12765.37109375 14133.873046875 8
+stats: {cpu,"tsung_controller@tsung-1"} 1 39.88992581957406 0.0 64.87481590574374 23.18373504002467 46.74857429417554 8
+stats: session 0 0 0 34105.985107421875 3.166015625 5860.214389143319 58
+stats: users_count 11489 101972
+stats: finish_users_count 0 58
+stats: connect 11474 0.629071471540277 0.3510270534291273 3009.364013671875 0.30615234375 19.202199564120924 87587
+stats: error_send_no_ws_connection 0 1
+stats: error_unknown 0 59
+stats: error_connect_eaddrinuse 0 10888
+stats: size_sent 2064780 17818560
+stats: connected 11474 98966
+stats: error_abort_max_conn_retries 0 2626
+# stats: dump at 1446662284
+stats: users 113452 113452
+stats: {load,"tsung_controller@tsung-1"} 1 1.578125 0.0 1.76953125 0.33984375 1.15625 9
+stats: {freemem,"tsung_controller@tsung-1"} 1 12402.42578125 0.0 15424.22265625 12402.42578125 13981.817274305555 9
+stats: {cpu,"tsung_controller@tsung-1"} 1 39.20601362461827 0.0 64.87481590574374 23.18373504002467 45.98650224144204 9
+stats: session 0 0 0 34105.985107421875 3.166015625 5860.214389143319 58
+stats: users_count 11538 113510
+stats: finish_users_count 0 58
+stats: connect 11543 231.80620479707585 632.714761752004 3013.56494140625 0.30615234375 17.050918315857025 99061
+stats: error_send_no_ws_connection 0 1
+stats: error_unknown 0 59
+stats: error_connect_eaddrinuse 0 10888
+stats: size_sent 2078460 19897020
+stats: connected 11543 110509
+stats: error_abort_max_conn_retries 0 2626
+# stats: dump at 1446662294
+stats: users 125139 125139
+stats: {load,"tsung_controller@tsung-1"} 1 1.55859375 0.0 1.76953125 0.33984375 1.1984375 10
+stats: {freemem,"tsung_controller@tsung-1"} 1 11997.65625 0.0 15424.22265625 11997.65625 13823.878125 10
+stats: {cpu,"tsung_controller@tsung-1"} 1 43.76638855780691 0.0 64.87481590574374 23.18373504002467 45.30845337975966 10
+stats: session 0 0 0 34105.985107421875 3.166015625 5860.214389143319 58
+stats: users_count 11687 125197
+stats: finish_users_count 0 58
+stats: connect 11763 0.6740551842907839 0.7097201984760563 3013.56494140625 0.30615234375 39.46349174767422 110604
+stats: error_send_no_ws_connection 0 1
+stats: error_unknown 0 59
+stats: error_connect_eaddrinuse 0 10888
+stats: size_sent 2117340 22014360
+stats: connected 11763 122272
+stats: error_abort_max_conn_retries 0 2626
+# stats: dump at 1446662304
+stats: users 136554 136554
+stats: {load,"tsung_controller@tsung-1"} 1 1.3984375 0.0 1.76953125 0.33984375 1.2311789772727273 11
+stats: {freemem,"tsung_controller@tsung-1"} 1 11667.41015625 0.0 15424.22265625 11667.41015625 13657.857954545454 11
+stats: {cpu,"tsung_controller@tsung-1"} 1 38.9947594092425 0.0 64.87481590574374 23.18373504002467 45.16826566867305 11
+stats: session 0 0 0 34105.985107421875 3.166015625 5860.214389143319 58
+stats: users_count 11415 136612
+stats: finish_users_count 0 58
+stats: connect 11412 370.1462971192244 824.6435816177494 3013.56494140625 0.30615234375 35.73470749787583 122367
+stats: error_send_no_ws_connection 5 6
+stats: error_unknown 0 59
+stats: error_connect_eaddrinuse 0 10888
+stats: size_sent 2053080 24067440
+stats: connected 11407 133679
+stats: error_abort_max_conn_retries 0 2626
+# stats: dump at 1446662314
+stats: users 147702 147702
+stats: {load,"tsung_controller@tsung-1"} 1 1.48828125 0.0 1.76953125 0.33984375 1.2451171875 12
+stats: {freemem,"tsung_controller@tsung-1"} 1 11179.91015625 0.0 15424.22265625 11179.91015625 13491.9873046875 12
+stats: {cpu,"tsung_controller@tsung-1"} 1 44.854881266490764 0.0 64.87481590574374 23.18373504002467 44.65380681372051 12
+stats: session 1 3.800048828125 0.0 34105.985107421875 3.166015625 5860.214389143319 58
+stats: users_count 11149 147761
+stats: finish_users_count 1 59
+stats: connect 11171 396.68279864839025 874.7314881501115 7018.05712890625 0.30615234375 64.26164416774802 133779
+stats: error_send_no_ws_connection 12 18
+stats: error_unknown 1 60
+stats: error_connect_eaddrinuse 0 10888
+stats: size_sent 2007900 26075340
+stats: connected 11158 144837
+stats: error_abort_max_conn_retries 0 2626
+# stats: dump at 1446662324
+stats: users 159139 159139
+stats: {load,"tsung_controller@tsung-1"} 1 1.71875 0.0 1.76953125 0.33984375 1.2638221153846154 13
+stats: {freemem,"tsung_controller@tsung-1"} 1 10819.06640625 0.0 15424.22265625 10819.06640625 13314.135216346154 13
+stats: {cpu,"tsung_controller@tsung-1"} 1 42.62098706276953 0.0 64.87481590574374 23.18373504002467 44.66927407931822 13
+stats: session 2 6443.6890869140625 217.3839111328125 34105.985107421875 3.166015625 5760.953129137976 59
+stats: users_count 11439 159200
+stats: finish_users_count 2 61
+stats: error_send_no_ws_connection 25 43
+stats: connect 9429 572.8850232556299 994.2251871480562 8219.405029296875 0.30615234375 89.88066256514888 144950
+stats: error_unknown 2 62
+stats: error_connect_eaddrinuse 0 10888
+stats: size_sent 1594980 27670320
+stats: connected 9402 154239
+stats: error_abort_max_conn_retries 0 2626
+# stats: dump at 1446662334
+stats: users 170492 170492
+stats: {load,"tsung_controller@tsung-1"} 1 1.921875 0.0 1.921875 0.33984375 1.2963169642857142 14
+stats: {freemem,"tsung_controller@tsung-1"} 1 10356.7734375 0.0 15424.22265625 10356.7734375 13135.916015625 14
+stats: {cpu,"tsung_controller@tsung-1"} 1 49.096603228137795 0.0 64.87481590574374 23.18373504002467 44.522967863850454 14
+stats: session 1 10554.0029296875 0.0 34105.985107421875 3.166015625 5783.3379146388315 61
+stats: users_count 11354 170554
+stats: finish_users_count 1 62
+stats: connect 13457 415.3267156353318 1041.7124749285945 15040.470947265625 0.30615234375 119.38110055833802 154379
+stats: error_send_no_ws_connection 11 54
+stats: error_unknown 1 63
+stats: error_connect_eaddrinuse 0 10888
+stats: size_sent 2518020 30188340
+stats: connected 13445 167684
+stats: error_abort_max_conn_retries 0 2626
+# stats: dump at 1446662344
+stats: users 182119 182119
+stats: {load,"tsung_controller@tsung-1"} 1 1.859375 0.0 1.921875 0.33984375 1.3380208333333334 15
+stats: {freemem,"tsung_controller@tsung-1"} 1 9998.6640625 0.0 15424.22265625 9998.6640625 12950.63984375 15
+stats: {cpu,"tsung_controller@tsung-1"} 1 39.483657034580766 0.0 64.87481590574374 23.18373504002467 44.82787688813628 15
+stats: session 2 1492.1849365234375 345.8968505859375 34105.985107421875 3.166015625 5860.284124558972 62
+stats: users_count 11629 182183
+stats: finish_users_count 2 64
+stats: connect 11620 574.6806170202526 1126.1878221268435 15040.470947265625 0.30615234375 143.10986043161375 167836
+stats: error_send_no_ws_connection 15 69
+stats: error_unknown 2 65
+stats: error_connect_eaddrinuse 0 10888
+stats: size_sent 2086560 32274900
+stats: connected 11603 179287
+stats: error_abort_max_conn_retries 0 2626
+# stats: dump at 1446662354
+stats: users 193703 193703
+stats: {load,"tsung_controller@tsung-1"} 1 2.109375 0.0 2.109375 0.33984375 1.37060546875 16
+stats: {freemem,"tsung_controller@tsung-1"} 1 9610.48828125 0.0 15424.22265625 9610.48828125 12766.141357421875 16
+stats: {cpu,"tsung_controller@tsung-1"} 1 45.534651107406525 0.0 64.87481590574374 23.18373504002467 44.49386314728906 16
+stats: session 0 0 0 34105.985107421875 3.166015625 5723.781024932861 64
+stats: users_count 11584 193767
+stats: finish_users_count 0 64
+stats: connect 11677 9.096794659607331 242.68463391858958 15040.470947265625 0.30615234375 171.05460561461118 179456
+stats: error_send_no_ws_connection 1 70
+stats: error_unknown 0 65
+stats: error_connect_eaddrinuse 0 10888
+stats: size_sent 2104920 34379820
+stats: connected 11676 190963
+stats: error_abort_max_conn_retries 0 2626
+# stats: dump at 1446662364
+stats: users 204993 204993
+stats: {load,"tsung_controller@tsung-1"} 1 2.1015625 0.0 2.109375 0.33984375 1.4140625 17
+stats: {freemem,"tsung_controller@tsung-1"} 1 9288.44140625 0.0 15424.22265625 9288.44140625 12580.514705882353 17
+stats: {cpu,"tsung_controller@tsung-1"} 1 39.17280722605182 0.0 64.87481590574374 23.18373504002467 44.55508596847244 17
+stats: session 0 0 0 34105.985107421875 3.166015625 5723.781024932861 64
+stats: users_count 11290 205057
+stats: finish_users_count 0 64
+stats: connect 11321 0.6196491776206812 0.43580510683863466 15040.470947265625 0.30615234375 161.16002247867138 191133
+stats: error_send_no_ws_connection 0 70
+stats: error_unknown 0 65
+stats: error_connect_eaddrinuse 0 10888
+stats: size_sent 2037060 36416880
+stats: connected 11321 202284
+stats: error_abort_max_conn_retries 0 2626
+# stats: dump at 1446662374
+stats: users 216551 216551
+stats: {load,"tsung_controller@tsung-1"} 1 1.76953125 0.0 2.109375 0.33984375 1.4522569444444444 18
+stats: {freemem,"tsung_controller@tsung-1"} 1 8941.69140625 0.0 15424.22265625 8941.69140625 12397.621744791666 18
+stats: {cpu,"tsung_controller@tsung-1"} 1 39.38814531548757 0.0 64.87481590574374 23.18373504002467 44.256070482782405 18
+stats: session 0 0 0 34105.985107421875 3.166015625 5723.781024932861 64
+stats: users_count 11558 216615
+stats: finish_users_count 0 64
+stats: connect 10989 742.4101423644912 1210.863825372559 15040.470947265625 0.30615234375 152.18278534756408 202454
+stats: error_send_no_ws_connection 66 136
+stats: error_unknown 0 65
+stats: error_connect_eaddrinuse 0 10888
+stats: size_sent 1930500 38347380
+stats: connected 10923 213207
+stats: error_abort_max_conn_retries 0 2626
+# stats: dump at 1446662384
+stats: users 227741 227741
+stats: {load,"tsung_controller@tsung-1"} 1 1.6484375 0.0 2.109375 0.33984375 1.468955592105263 19
+stats: {freemem,"tsung_controller@tsung-1"} 1 8438.921875 0.0 15424.22265625 8438.921875 12215.730674342105 19
+stats: {cpu,"tsung_controller@tsung-1"} 1 47.21890666030079 0.0 64.87481590574374 23.18373504002467 43.999863895030046 19
+stats: session 12 10067.11024983724 3352.2759262247455 34105.985107421875 2.988037109375 5723.781024932861 64
+stats: users_count 11202 227817
+stats: finish_users_count 12 76
+stats: connect 10859 1076.0693233471357 1840.92966697313 15040.470947265625 0.30615234375 182.57032874912332 213443
+stats: error_send_no_ws_connection 95 231
+stats: error_unknown 12 77
+stats: error_connect_eaddrinuse 0 10888
+stats: size_sent 1917180 40264560
+stats: connected 10752 223959
+stats: error_abort_max_conn_retries 0 2626
+# stats: dump at 1446662394
+stats: users 239403 239403
+stats: {load,"tsung_controller@tsung-1"} 1 1.48046875 0.0 2.109375 0.33984375 1.4779296874999999 20
+stats: {freemem,"tsung_controller@tsung-1"} 1 8024.1171875 0.0 15424.22265625 8024.1171875 12026.890234375 20
+stats: {cpu,"tsung_controller@tsung-1"} 1 48.300622307324076 0.0 64.87481590574374 23.18373504002467 44.160816033293585 20
+stats: session 6 15234.578002929688 4023.9830001228133 34105.985107421875 2.988037109375 6409.569849917763 76
+stats: users_count 11668 239485
+stats: finish_users_count 6 82
+stats: connect 10082 988.508122216187 1997.9851917873357 15040.470947265625 0.30615234375 225.82676686532298 224302
+stats: error_send_no_ws_connection 61 292
+stats: error_unknown 6 83
+stats: error_connect_eaddrinuse 0 10888
+stats: size_sent 1687320 41951880
+stats: connected 10015 233974
+stats: error_abort_max_conn_retries 0 2626
+# stats: dump at 1446662404
+stats: users 250937 250937
+stats: {load,"tsung_controller@tsung-1"} 1 1.7109375 0.0 2.109375 0.33984375 1.4780505952380951 21
+stats: {freemem,"tsung_controller@tsung-1"} 1 7553.74609375 0.0 15424.22265625 7553.74609375 11836.281994047618 21
+stats: {cpu,"tsung_controller@tsung-1"} 1 49.42583732057416 0.0 64.87481590574374 23.18373504002467 44.35794966539028 21
+stats: session 2 27096.837036132813 8374.494018554688 35471.3310546875 2.988037109375 7055.302153796684 82
+stats: users_count 11536 251021
+stats: finish_users_count 2 84
+stats: connect 14394 815.6914642914871 1913.060272432838 18664.76904296875 0.30615234375 258.6334150351955 234384
+stats: error_send_no_ws_connection 64 356
+stats: error_unknown 2 85
+stats: error_connect_eaddrinuse 0 10888
+stats: size_sent 2752200 44704080
+stats: connected 14328 248302
+stats: error_abort_max_conn_retries 0 2626
+# stats: dump at 1446662414
+stats: users 256029 256029
+stats: {load,"tsung_controller@tsung-1"} 1 1.83984375 0.0 2.109375 0.33984375 1.4886363636363635 22
+stats: {freemem,"tsung_controller@tsung-1"} 1 6998.671875 0.0 15424.22265625 6998.671875 11641.621271306818 22
+stats: {cpu,"tsung_controller@tsung-1"} 1 40.028456248517905 0.0 64.87481590574374 23.18373504002467 44.588308195171365 22
+stats: session 0 0 0 35471.3310546875 2.988037109375 7532.481555757068 84
+stats: users_count 5092 256113
+stats: finish_users_count 0 84
+stats: connect 5115 0.6600682352761484 0.5959005655478308 18664.76904296875 0.30615234375 290.8641330287282 248778
+stats: error_send_no_ws_connection 0 356
+stats: error_unknown 0 85
+stats: error_connect_eaddrinuse 0 10888
+stats: size_sent 920880 45624960
+stats: connected 5115 253417
+stats: error_abort_max_conn_retries 0 2626
+# stats: dump at 1446662424
+stats: users 256216 256216
+stats: {load,"tsung_controller@tsung-1"} 1 1.7109375 0.0 2.109375 0.33984375 1.50390625 23
+stats: {freemem,"tsung_controller@tsung-1"} 1 6938.80859375 0.0 15424.22265625 6938.80859375 11439.75390625 23
+stats: {cpu,"tsung_controller@tsung-1"} 1 26.36497786522381 0.0 64.87481590574374 23.18373504002467 44.39005376270818 23
+stats: session 0 0 0 35471.3310546875 2.988037109375 7532.481555757068 84
+stats: users_count 187 256300
+stats: finish_users_count 0 84
+stats: connect 173 1.2332686054913296 3.5911430385370084 18664.76904296875 0.30615234375 285.0176000742218 253893
+stats: error_send_no_ws_connection 0 356
+stats: error_unknown 0 85
+stats: error_connect_eaddrinuse 0 10888
+stats: size_sent 29880 45654840
+stats: connected 173 253590
+stats: error_abort_max_conn_retries 0 2626
+# stats: dump at 1446662434
+stats: users 256385 256385
+stats: {load,"tsung_controller@tsung-1"} 1 1.51953125 0.0 2.109375 0.33984375 1.5125325520833333 24
+stats: {freemem,"tsung_controller@tsung-1"} 1 6746.0546875 0.0 15424.22265625 6746.0546875 11252.214518229166 24
+stats: {cpu,"tsung_controller@tsung-1"} 1 28.535225544855553 0.0 64.87481590574374 23.18373504002467 43.63900893364633 24
+stats: session 0 0 0 35471.3310546875 2.988037109375 7532.481555757068 84
+stats: users_count 169 256469
+stats: finish_users_count 0 84
+stats: connect 176 688.235273881392 1481.2108771423289 18664.76904296875 0.30615234375 284.8243641066224 254066
+stats: error_send_no_ws_connection 0 356
+stats: error_unknown 0 85
+stats: error_connect_eaddrinuse 0 10888
+stats: size_sent 32580 45687420
+stats: connected 176 253766
+stats: error_abort_max_conn_retries 0 2626
+# stats: dump at 1446662444
+stats: users 256555 256555
+stats: {load,"tsung_controller@tsung-1"} 1 1.33984375 0.0 2.109375 0.33984375 1.5128125 25
+stats: {freemem,"tsung_controller@tsung-1"} 1 6755.5078125 0.0 15424.22265625 6746.0546875 11071.968125 25
+stats: {cpu,"tsung_controller@tsung-1"} 1 26.6225814352192 0.0 64.87481590574374 23.18373504002467 43.0348575980947 25
+stats: session 0 0 0 35471.3310546875 2.988037109375 7532.481555757068 84
+stats: users_count 170 256639
+stats: finish_users_count 0 84
+stats: connect 152 257.37657085217927 679.8198425239591 18664.76904296875 0.30615234375 285.10362685675955 254242
+stats: error_send_no_ws_connection 0 356
+stats: error_unknown 0 85
+stats: error_connect_eaddrinuse 0 10888
+stats: size_sent 26460 45713880
+stats: connected 152 253918
+stats: error_abort_max_conn_retries 0 2626
+# stats: dump at 1446662454
+stats: users 256745 256745
+stats: {load,"tsung_controller@tsung-1"} 1 1.359375 0.0 2.109375 0.33984375 1.5061598557692308 26
+stats: {freemem,"tsung_controller@tsung-1"} 1 6764.84765625 0.0 15424.22265625 6746.0546875 10905.950420673076 26
+stats: {cpu,"tsung_controller@tsung-1"} 1 27.258998238107225 0.0 64.87481590574374 23.18373504002467 42.40361620721488 26
+stats: session 0 0 0 35471.3310546875 2.988037109375 7532.481555757068 84
+stats: users_count 190 256829
+stats: finish_users_count 0 84
+stats: error_send_no_ws_connection 1 357
+stats: connect 212 363.93486973024767 1283.1760982762053 18664.76904296875 0.30615234375 285.0870599860287 254394
+stats: error_unknown 0 85
+stats: error_connect_eaddrinuse 0 10888
+stats: size_sent 38700 45752580
+stats: connected 211 254129
+stats: error_abort_max_conn_retries 0 2626
+# stats: dump at 1446662464
+stats: users 256938 256938
+stats: {load,"tsung_controller@tsung-1"} 1 1.21875 0.0 2.109375 0.33984375 1.5007233796296295 27
+stats: {freemem,"tsung_controller@tsung-1"} 1 6639.74609375 0.0 15424.22265625 6639.74609375 10752.576244212964 27
+stats: {cpu,"tsung_controller@tsung-1"} 1 26.24078624078624 0.0 64.87481590574374 23.18373504002467 41.842704430581264 27
+stats: session 0 0 0 35471.3310546875 2.988037109375 7532.481555757068 84
+stats: users_count 193 257022
+stats: finish_users_count 0 84
+stats: connect 193 0.6941601056509067 0.2790182701313161 18664.76904296875 0.30615234375 285.1527133314557 254606
+stats: error_send_no_ws_connection 0 357
+stats: error_unknown 0 85
+stats: error_connect_eaddrinuse 0 10888
+stats: size_sent 34740 45787320
+stats: connected 193 254322
+stats: error_abort_max_conn_retries 0 2626
+# stats: dump at 1446662474
+stats: users 257130 257130
+stats: {load,"tsung_controller@tsung-1"} 1 1.12109375 0.0 2.109375 0.33984375 1.4906529017857142 28
+stats: {freemem,"tsung_controller@tsung-1"} 1 6633.58984375 0.0 15424.22265625 6633.58984375 10605.689453125 28
+stats: {cpu,"tsung_controller@tsung-1"} 1 26.30546702623192 0.0 64.87481590574374 23.18373504002467 41.28549306666002 28
+stats: session 0 0 0 35471.3310546875 2.988037109375 7532.481555757068 84
+stats: users_count 192 257214
+stats: finish_users_count 0 84
+stats: connect 195 0.8031800881410256 1.224520225691296 18664.76904296875 0.30615234375 284.9372474121523 254799
+stats: error_send_no_ws_connection 0 357
+stats: error_unknown 0 85
+stats: error_connect_eaddrinuse 0 10888
+stats: size_sent 35100 45822420
+stats: connected 195 254517
+stats: error_abort_max_conn_retries 0 2626
+# stats: dump at 1446662484
+stats: users 257322 257322
+stats: {load,"tsung_controller@tsung-1"} 1 1.1015625 0.0 2.109375 0.33984375 1.4779094827586208 29
+stats: {freemem,"tsung_controller@tsung-1"} 1 6697.390625 0.0 15424.22265625 6633.58984375 10468.720501077587 29
+stats: {cpu,"tsung_controller@tsung-1"} 1 26.30546702623192 0.0 64.87481590574374 23.18373504002467 40.768940444576295 29
+stats: session 0 0 0 35471.3310546875 2.988037109375 7532.481555757068 84
+stats: users_count 192 257406
+stats: finish_users_count 0 84
+stats: connect 192 0.7191289265950523 0.5288698694189814 18664.76904296875 0.30615234375 284.7199633069256 254994
+stats: error_send_no_ws_connection 0 357
+stats: error_unknown 0 85
+stats: error_connect_eaddrinuse 0 10888
+stats: size_sent 34560 45856980
+stats: connected 192 254709
+stats: error_abort_max_conn_retries 0 2626
+# stats: dump at 1446662494
+stats: users 257499 257499
+stats: {load,"tsung_controller@tsung-1"} 1 1.01171875 0.0 2.109375 0.33984375 1.4653645833333333 30
+stats: {freemem,"tsung_controller@tsung-1"} 1 6562.55859375 0.0 15424.22265625 6562.55859375 10343.009505208332 30
+stats: {cpu,"tsung_controller@tsung-1"} 1 27.87654320987654 0.0 64.87481590574374 23.18373504002467 40.286824663964815 30
+stats: session 0 0 0 35471.3310546875 2.988037109375 7532.481555757068 84
+stats: users_count 177 257583
+stats: finish_users_count 0 84
+stats: connect 167 50.14136619339448 248.52433869303877 18664.76904296875 0.30615234375 284.5062832453194 255186
+stats: error_send_no_ws_connection 0 357
+stats: error_unknown 0 85
+stats: error_connect_eaddrinuse 0 10888
+stats: size_sent 30060 45887040
+stats: connected 167 254876
+stats: error_abort_max_conn_retries 0 2626
+# stats: dump at 1446662504
+stats: users 257735 257735
+stats: {load,"tsung_controller@tsung-1"} 1 1.01171875 0.0 2.109375 0.33984375 1.4507308467741935 31
+stats: {freemem,"tsung_controller@tsung-1"} 1 6422.26171875 0.0 15424.22265625 6422.26171875 10221.05947580645 31
+stats: {cpu,"tsung_controller@tsung-1"} 1 26.54063343972502 0.0 64.87481590574374 23.18373504002467 39.88649300415551 31
+stats: session 0 0 0 35471.3310546875 2.988037109375 7532.481555757068 84
+stats: users_count 236 257819
+stats: finish_users_count 0 84
+stats: connect 238 0.7917993369222689 0.11867725110313072 18664.76904296875 0.30615234375 284.3530093807176 255353
+stats: error_send_no_ws_connection 0 357
+stats: error_unknown 0 85
+stats: error_connect_eaddrinuse 0 10888
+stats: size_sent 42840 45929880
+stats: connected 238 255114
+stats: error_abort_max_conn_retries 0 2626
+# stats: dump at 1446662514
+stats: users 257971 257971
+stats: {load,"tsung_controller@tsung-1"} 1 1.01171875 0.0 2.109375 0.33984375 1.43701171875 32
+stats: {freemem,"tsung_controller@tsung-1"} 1 6350.3515625 0.0 15424.22265625 6350.3515625 10102.347045898438 32
+stats: {cpu,"tsung_controller@tsung-1"} 1 26.59001956947162 0.0 64.87481590574374 23.18373504002467 39.46943489276706 32
+stats: session 0 0 0 35471.3310546875 2.988037109375 7532.481555757068 84
+stats: users_count 236 258055
+stats: finish_users_count 0 84
+stats: connect 237 0.8353389949235234 0.8908018431333915 18664.76904296875 0.30615234375 284.0889642148455 255591
+stats: error_send_no_ws_connection 0 357
+stats: error_unknown 0 85
+stats: error_connect_eaddrinuse 0 10888
+stats: size_sent 42660 45972540
+stats: connected 237 255351
+stats: error_abort_max_conn_retries 0 2626
+# stats: dump at 1446662524
+stats: users 258207 258207
+stats: {load,"tsung_controller@tsung-1"} 1 0.9296875 0.0 2.109375 0.33984375 1.424124053030303 33
+stats: {freemem,"tsung_controller@tsung-1"} 1 6663.96875 0.0 15424.22265625 6350.3515625 9988.650213068182 33
+stats: {cpu,"tsung_controller@tsung-1"} 1 26.517571884984026 0.0 64.87481590574374 23.18373504002467 39.07914957993993 33
+stats: session 0 0 0 35471.3310546875 2.988037109375 7532.481555757068 84
+stats: users_count 236 258291
+stats: finish_users_count 0 84
+stats: connect 238 0.8624616350446429 0.9684817061603949 18664.76904296875 0.30615234375 283.8265570147848 255828
+stats: error_send_no_ws_connection 0 357
+stats: error_unknown 0 85
+stats: error_connect_eaddrinuse 0 10888
+stats: size_sent 42840 46015380
+stats: connected 238 255589
+stats: error_abort_max_conn_retries 0 2626
+# stats: dump at 1446662534
+stats: users 258442 258442
+stats: {load,"tsung_controller@tsung-1"} 1 0.94140625 0.0 2.109375 0.33984375 1.4095818014705883 34
+stats: {freemem,"tsung_controller@tsung-1"} 1 6377.671875 0.0 15424.22265625 6350.3515625 9890.865464154413 34
+stats: {cpu,"tsung_controller@tsung-1"} 1 26.555609995100443 0.0 64.87481590574374 23.18373504002467 38.70969141244123 34
+stats: session 0 0 0 35471.3310546875 2.988037109375 7532.481555757068 84
+stats: users_count 235 258526
+stats: finish_users_count 0 84
+stats: connect 236 0.7853300450211865 0.17470836371763618 18664.76904296875 0.30615234375 283.5635566371463 256066
+stats: error_send_no_ws_connection 0 357
+stats: error_unknown 0 85
+stats: error_connect_eaddrinuse 0 10888
+stats: size_sent 42480 46057860
+stats: connected 236 255825
+stats: error_abort_max_conn_retries 0 2626
