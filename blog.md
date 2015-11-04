@@ -205,8 +205,10 @@ ip addr add 172.31.30.188/20  dev eth0
 
 With 15 addresses in total we should get close to one million connections:
 
+```python
 >>> 15 * 64000
 960000
+```
 
 But tsung needs much more memory than our Haskell server and died at
 ~500k connections:
